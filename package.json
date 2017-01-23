@@ -1,0 +1,19 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "Simple gulp playground with the intention of automating compilation of sass and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "typescript"
+  ],
+  "author": "Daniel Oram",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
